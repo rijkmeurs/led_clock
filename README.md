@@ -1,7 +1,8 @@
  Program to show time and temperature on led matrix display
 
- for D1 mini ESP8266
+for D1 mini ESP8266
 uses DHT20 and DS3231 real time clock
+MAX72XX display
 
  MD_MAX72XX library can be found at https://github.com/MajicDesigns/MD_MAX72XX
 
